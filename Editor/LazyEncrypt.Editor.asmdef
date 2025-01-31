@@ -1,0 +1,16 @@
+{
+  "name": "LazyEncrypt.Editor",
+  "rootNamespace": "LazyEncrypt.Editor",
+  "references": [
+    "LazyEncrypt.Core"
+  ],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
