@@ -1,0 +1,15 @@
+{
+    "name": "com.lazydev.lazyencrypt",
+    "version": "1.0.0",
+    "displayName": "LazyEncrypt",
+    "description": "A simple Unity encryption system to securely store and hash secrets.",
+    "unity": "2021.3",
+    "author": {
+      "name": "Vishal Choudhary",
+      "url": "https://github.com/Vishal-Choudhary-bulu/LazyEncrypt"
+    },
+    "dependencies": {},
+    "license": "AGPL-3.0-only",
+    "keywords": ["encryption", "security", "game security", "obfuscation", "sha256"]
+  }
+  
